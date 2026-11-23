@@ -59,22 +59,6 @@ Provides detailed information about listening activity, tracks, artists, and oth
 - Track and artist-level exploration.
 - Dynamic visualisations and DAX-based measures.
 
-## Project Structure
-
-spotify-streaming-history-analysis/
-│
-├── README.md
-├── Dashboard/
-│   └── Spotify_Dashboard.pbix
-├── Screenshots/
-│   ├── Overview.png
-│   ├── Listening_Patterns.png
-│   └── Details.png
-└── Documentation/
-    ├── Data_Preprocessing.md
-    └── DAX_Measures.md
-
-
 ## Purpose
 
 This project demonstrates practical skills in data cleaning, data modelling, DAX, data analysis, and interactive dashboard development using Power BI.
